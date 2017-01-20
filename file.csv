@@ -1,0 +1,101 @@
+University Name,Rank,中文名字,SAT Reading,SAT Math,SAT Writing,ACT,TOEFL
+Princeton University,1,普林斯顿大学,700-790,710-800,710-800,31-35,
+Harvard University,2,哈佛大学,700-800,710-790,710-800,32-35,
+Yale University,3,耶鲁大学,700-800,710-790,710-800,32-35,Min100
+Columbia University,4,哥伦比亚大学,690-780,700-790,690-780,31-34,Min100
+Stanford University,5,斯坦福大学,680-780,700-790,700-780,31-34,
+University of Chicago,6,芝加哥大学,710-780,710-790,700-780,31-34,Min104
+Duke University,7,杜克大学,670-760,690-790,680-780,30-34,Min100
+Massachusetts Institute of Technology,7,麻省理工学院,670-770,740-800,680-780,32-35,Min 90，A109
+University of Pennsylvania,7,宾夕法尼亚大学,660-760,690-780,680-770,30-34,A112
+California Institute of Technology,10,加州理工,720-780,770-800,730-800,34-35,
+Dartmouth College,10,达特茅斯学院,670-780,680-780,680-790,30-34,
+Johns Hopkins University,12,约翰霍普金斯大学,,,,,
+Northwestern University,12,西北大学,680-760,700-780,680-770,31-34,Min100
+Brown University,14,布朗大学,660-760,660-770,670-780,29-34,Min100
+Washington University in St. Louis,14,华盛顿大学圣路易斯分校,700-770,720-790,690-780,32-34,
+Cornell University,16,康奈尔大学,640-740,670-780,,30-33,Min100
+Vanderbilt University,17,范德堡大学,690-770,710-790,670-770,,Min100
+Rice University,18,莱斯大学,660-750,700-780,660-760,30-34,Min100
+University of Notre Dame,18,圣母大学,660-750,680-770,650-750,31-34,"Min100, A 111"
+Emory University,20,埃默里大学,620-710,660-760,640-730,29-32,A100
+Georgetown University,20,乔治城大学,650-750,660-750,,29-33,
+University of California--Berkeley,20,加州大学伯克利分校,590-720,630-770,620-750,27-33,Min80
+Carnegie Mellon University,23,卡内基梅陇大学,630-730,690-790,650-740,29-33,Min102，A110
+University of California--Los Angeles,23,加州大学洛杉矶分校,560-680,600-760,590-710,25-31,
+University of Southern California,23,南加州大学,620-720,650-760,640-740,29-33,
+University of Virginia,23,弗吉尼亚大学,620-720,640-740,630-730,28-32,
+Wake Forest University,23,维克森林大学,620-700,630-710,,29-31,Min100
+Tufts University,28,塔夫斯大学,670-760,680-760,680-760,30-33,Min100，A110
+University of Michigan--Ann Arbor,28,密西根大学安娜堡分校,,,,,
+University of North Carolina--Chapel Hill,30,北卡罗来纳大学教堂山分校,590-690,610-710,580-690,27-32,Min100，A109
+Boston College,31,波士顿学院,620-710,640-740,640-730,29-32,Min100，A106
+Brandeis University,32,布兰迪斯大学,610-710,620-740,620-710,28-32,Min100，A104
+College of William and Mary,32,威廉玛丽学院,630-740,620-720,620-720,28-32,Min100
+New York University,32,纽约大学,620-710,630-740,640-730,28-32,Min100
+University of Rochester,32,罗切斯特大学,600-700,640-740,600-700,28-31,Min100
+Georgia Institute of Technology,36,佐治亚理工,600-700,660-760,610-700,28-32,
+Pennsylvania State University--University Park,37,宾州州立立大学帕克分校,,,,,
+Case Western Reserve University,37,凯斯西储大学,600-720,660-760,600-700,29-33,Min 90
+University of California--Davis,37,加州大学戴维斯分校,520-640,570-690,540-660,24-30,Min 60
+University of California--San Diego,39,加州大学圣地亚哥分校,510-650,560-720,530-680,23-30,Min 83
+Boston University,41,波士顿大学,570-670,610-720,600-690,26-30,A 100
+Lehigh University,41,里海大学,570-670,630-730,,28-31,Min 90
+Rensselaer Polytechnic Institute,41,伦斯勒理工学院 ,610-700,660-760,590-690,26-31,Min 88
+University of California--Santa Barbara,41,加州大学圣芭芭拉分校,540-660,570-690,560-670,24-29,Min 80
+University of Illinois--Urbana-Champaign,41,伊利诺伊大学香槟分校,550-680,680-790,570-680,26-31,Min 79
+University of Wisconsin--Madison,41,威斯康辛大学麦迪逊分校,530-650,630-750,570-670,26-30,Min 80
+University of Miami,47,迈阿密大学,600-700,630-720,590-690,28-32,"Min 80, A 98"
+Yeshiva University,47,叶史瓦大学,540-680,550-680,540-660,23-28,
+Northeastern University,49,东北大学,630-720,650-740,610-710,29-32,"Min 84, A 99"
+University of California--Irvine,49,加州大学欧文分校,470-610,540-670,490-620,,Min 80
+University of Florida,49,佛罗里达大学,580-670,590-690,570-670,26-31,Min 80
+George Washington University,,乔治华盛顿大学,600-690,600-700,610-700,27-31,
+Ohio State University--Columbus,52,俄亥俄州立大学哥伦布分校,540-650,610-710,550-650,26-30,"Min79, A 93"
+University of Texas--Austin,52,德州大学奥斯丁分校,550-670,580-710,540-680,25-31,Min 79
+Tulane University,52,杜兰大学,630-720,620-710,640-720,29-32,
+University of Washington,52,华盛顿大学西雅图分校,520-650,580-700,530-640,24-30,Min 76
+Pepperdine University,57,佩伯代因大学 ,550-650,570-680,560-670,25-30,"Min 80, A 93"
+Fordham University,57,福特汉姆大学,570-670,590-680,580-680,26-30,"Min 90, A 100"
+University of Connecticut,57,康涅狄格大学,550-650,580-680,550-650,26-30,"Min 79, A 87"
+Southern Methodist University,60,南卫理公会大学,590-680,600-690,570-680,27-31,Min 80
+University of Georgia,60,佐治亚大学,560-660,580-670,570-670,26-30,Min 80
+Syracuse University,62,锡拉丘兹大学 ,510-620,540-650,520-630,23-28,"Min 85, A 89"
+Brigham Young University--Provo,62,杨百翰大学,580-690,590-690,,26-31,"Min 80, A 96"
+Clemson University,62,克莱姆森大学,560-660,590-680,,26-31,
+University of Maryland--College Park,62,马里兰大学帕克分校,580-690,610-720,,,Min 100
+University of Pittsburgh,62,匹茨堡大学,570-660,600-680,560-660,26-30,"Min 80, A 101"
+Worcester Polytechnic Institute,62,伍斯特理工学院,560-670,640-720,570-660,27-32,"Min 79, A 100"
+Purdue University--West Lafayette,68,普渡大学西拉法叶校区,,,,,
+"Rutgers, the State University of New Jersey--New Brunswick",68,新泽西州立罗格斯大学新伯朗士威校区,500-620,540-670,520-640,,Min 79
+Texas A&M University--College Station,65,德州农工大学,520-640,560-670,500-620,24-30,
+University of Minnesota--Twin Cities,68,明尼苏达大学双城分校,540-690,620-740,560-670,25-30,
+Michigan State University,72,密西根州立大学,430-590,540-680,460-580,23-28,Min 79
+University of Iowa,72,爱荷华大学,470-630,550-690,490-610,22-28,Min 80
+American University,75,美国大学,590-690,570-670,580-680,26-30,"Min 80, A 90"
+Baylor University,75,贝勒大学,550-660,570-670,530-650,24-29,Min 76
+Clark University,75,克拉克大学,530-640,530-640,530-640,24-29,"Min 80, A 100"
+Indiana University--Bloomington,75,印第安纳大学伯明顿分校,510-620,540-660,510-610,24-29,Min 79
+Marquette University,75,马凯特大学,540-640,580-680,530-640,24-29,Min 79
+Miami University--Oxford,75,迈阿密大学牛津分校,530-630,550-660,,24-29,"Min 80, A 86"
+University of Delaware,75,特拉华大学,540-650,560-660,550-650,24-29,Min 90
+Virginia Tech,75,弗吉尼亚理工,540-640,570-680,540-640,,"Min 90, A 118"
+Stevens Institute of Technology,82,斯蒂文斯理工学院,540-670,630-670,,26-32,Min 80
+Stony Brook University--SUNY,82,纽约州立大学石溪分校,530-640,600-700,530-640,25-29,"Min 80, A 90"
+Texas Christian University,82,德州基督教大学,530-630,550-650,550-650,25-30,Min 80
+University of Vermont,82,佛蒙特大学,540-640,550-650,540-650,24-30,"Min79, A 90"
+SUNY College of Environmental Science and Forestry,86,美国纽约州立大学环境科学与林业学院,540-630,560-640,,25-28,Min 79
+University of Alabama,86,阿拉巴马大学,500-620,500-640,490-610,22-30,Min 71
+University of California--Santa Cruz,86,加利福尼亚大学圣克鲁兹分校,470-610,490-630,480-620,20-27,Min 83
+University of Colorado--Boulder,86,科罗拉多大学博尔德分校 ,530-630,540-650,,23-28,Min 75
+University of Tulsa,86,塔尔萨大学,570-710,590-700,,25-31,"Min 61, A 79"
+Auburn University,91,奥本大学,530-630,550-650,520-610,24-30,Min 79
+Colorado School of Mines,91,科罗拉多矿业学院,570-670,630-720,550-650,27-31,"Min 79, A 85"
+Florida State University,91,佛罗里达州立大学,560-640,560-640,560-640,25-29,Min 80
+University of Denver,91,丹佛大学,550-640,560-660,530-640,25-30,"Min 70, A 83"
+University of San Diego,91,圣地亚哥大学,550-650,570-670,560-660,25-30,Min 80
+University of Massachusetts--Amherst,91,马萨诸塞大学阿默斯特分校 ,530-630,560-660,,24-28,Min 80
+Binghamton University--SUNY,97,纽约州立大学宾汉姆顿分校,590-680,630-710,580-670,27-30,"Min 83, A 90"
+Drexel University,97,德雷赛尔大学,540-640,580-680,530-640,24-29,Min 79
+University of Missouri,97,密苏里大学,510-640,530-650,,23-28,Min 61
+St. Louis University,101,圣路易斯大学,,,,,
